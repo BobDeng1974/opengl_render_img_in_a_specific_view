@@ -26,7 +26,7 @@ int main() {
 
 	char in[100] = ".//input//K.txt";
 	char ex[100] = ".//input//E.txt";
-	char model_file_name[100] = ".//input//2017_05_05_jiuping.obj";
+	char model_file_name[100] = ".//input//test.obj_";
 
 	char current_selected_image_file[100] = ".";
 	char tr[100] = ".//input//result_r_t.txt";
