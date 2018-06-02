@@ -4,11 +4,6 @@ According to the given camera intrinsic and extrinsic, use OpenGL to render imag
 ## Dependencies
 OpenGL  
 OpenCV  
-You can modify following property files to your own opencv openggl include path, lib path, and used lib name  
-"OPENCV_64_D.props\"   
-"OPENCV_64_R.props\"  
-"OPENGL_64_D.props\"  
-"OPENGL_64_R.props\"  
 
 
 ## input 
